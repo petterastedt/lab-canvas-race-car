@@ -22,6 +22,7 @@ body {
 }
 
 body button {
+  cursor: pointer;
   font-size: 30px;
   background-color: #870007;
   color: #fff;
